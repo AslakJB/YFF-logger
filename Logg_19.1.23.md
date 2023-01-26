@@ -10,3 +10,5 @@ Denne dagen var vi på skolen og brukte majoriteten av tiden på videoen [Django
 - Hva er en TCP (Transmisson Control Protocol) og hva er forskjellen på UDP og TCP.
 - UDP er ikke optatt av rekkefølgen data sendes i og er derfor raskere, brukes i f.eks. DNS.
 - Vi lærte til slutt mye om OSI modellen og hvilke nivåer som gjør hva og hvilke nivåer som er viktige å forstå.
+
+### [YFF-logger](https://github.com/AslakJB/YFF-logger)
