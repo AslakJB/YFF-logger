@@ -1,4 +1,4 @@
-### Logg 26.1.23
+# Logg 26.1.23
 
 ## Hva gjorde jeg?
 
